@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/*deneme*/
 int main() {
     char name[20];
     int secim;
